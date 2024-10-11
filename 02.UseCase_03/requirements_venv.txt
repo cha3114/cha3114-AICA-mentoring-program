@@ -1,0 +1,13 @@
+# # Install library and dependencies
+gradio==4.44.1
+python-dotenv==1.0.1
+langchain-community==0.3.1
+ibm_watson_machine_learning==1.0.364
+termcolor==2.5.0
+ibm_watsonx_ai==1.1.11
+langchain_experimental==0.3.2
+pypdf==5.0.1
+transformers==4.45.2
+jupyter
+langchain_openai==0.2.0
+#streamlit==1.38.0
